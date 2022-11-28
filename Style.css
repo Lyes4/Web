@@ -1,0 +1,42 @@
+body
+{
+    font-style: italic;
+    background-color: white;
+}
+header
+{
+    padding: 50px 30px 20px 20px;  
+    display: flex
+}
+
+#size
+{
+    size: 20px;
+    margin: 50px 50px 50px 50px;
+}
+section 
+{
+    color:rgb(46, 62, 114);
+}
+
+#identifiant
+{
+    background-color: rgb(205, 225, 243);
+}
+.PClass1
+{
+    font-size:medium;
+}
+.ImagePetite
+{
+    width: 200 px;
+}
+
+.ImageMoyenne
+{
+    font-size: 50px;
+}
+.TopNav
+{
+    size: 40% 10px 20px ;
+}
